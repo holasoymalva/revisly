@@ -1,7 +1,5 @@
 # 🚀 Revisly – Code Reviewsreinvented by AI
 
-![Revisly Logo](https://your-domain.com/revisly-logo.png) <!-- optional logo -->
-
 _Revisly_ is your **AI-powered code review buddy**. It reads your code, detects bad practices, suggests cleaner alternatives, and drops insightful comments — just like a senior dev on a good day (but faster and less sarcastic).
 
 Built with 💡 in LATAM, and designed for dev teams everywhere who want **automated, context-aware pull request feedback** directly inside their IDE.
